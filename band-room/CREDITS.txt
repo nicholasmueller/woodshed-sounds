@@ -1,0 +1,13 @@
+Band room - a Woodshed sound pack
+=================================
+
+IMreverbs.zip is the free Voxengo impulse response collection, exactly as downloaded
+from https://www.voxengo.com/files/impulses/IMreverbs.zip (SHA-256
+712e6baeca7a0ed04934d84a1a2cdbb6501c63bd851c33588ad0d3de22390588): complete and
+unaltered, with its licence (license.txt inside the archive) and all messages intact. It is
+distributed free of charge. Aleksey Vaneev retains exclusive ownership of these impulse
+files, including all intellectual property rights therein, at all times; by downloading
+this pack you acknowledge this.
+
+The Woodshed backing band plays in "Nice Drum Room.wav" from the archive (read directly
+from the zip; woodshed-pack.txt names it).

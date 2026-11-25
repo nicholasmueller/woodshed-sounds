@@ -1,0 +1,5 @@
+# Woodshed sound pack (Band room: Voxengo "Nice Drum Room" impulse response, in the complete
+# and unaltered IMreverbs.zip). Read by crates/backing/src/sfz/packs.rs.
+pack band-room
+version 1
+room IMreverbs.zip Nice Drum Room.wav
