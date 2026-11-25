@@ -1,0 +1,4 @@
+# Woodshed sound pack (Band drums, sticks: Virtuosity Drums (premixed: overheads, room, a little close kick and snare)). Read by crates/backing/src/sfz/packs.rs.
+pack band-drums-sticks
+version 1
+program drums-sticks virtuosity sticks.sfz

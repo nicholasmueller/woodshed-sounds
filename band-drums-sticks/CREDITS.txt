@@ -1,0 +1,14 @@
+Band drums (sticks) - a Woodshed sound pack
+=============================================
+
+The jazz kit for swing and bossa: Virtuosity Drums, premixed to one stereo sample per hit (overheads, room, a little close kick and snare).
+
+Credit: Virtuosity Drums by Versilian Studios and Karoryfer Samples, played by Austin McMahon, CC0 1.0
+Licence: CC0 1.0
+Made from: Virtuosity Drums v0.925 (versilian-studios.com)
+
+This folder is a derivative of the library named above, made by Woodshed's
+crates/backing/tools/build-packs.sh: our own flattened SFZ programs (every opcode
+resolved, only the regions the Woodshed backing band can play) over the library's own
+samples, converted to 16-bit FLAC, the drum mic positions premixed with the band's mic mix. The upstream licence and readme files are
+included unchanged next to this file.
