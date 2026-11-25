@@ -1,0 +1,4 @@
+# Woodshed sound pack (Band piano: Salamander Grand Piano V3). Read by crates/backing/src/sfz/packs.rs.
+pack band-piano
+version 1
+program piano salamander piano.sfz

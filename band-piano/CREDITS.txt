@@ -1,0 +1,14 @@
+Band piano - a Woodshed sound pack
+====================================
+
+The Improvise band's piano: Salamander Grand Piano V3 (Yamaha C5), the keys and velocity layers the comping plays, cut at 8 s.
+
+Credit: Salamander Grand Piano by Alexander Holm, licensed CC BY 3.0 (https://creativecommons.org/licenses/by/3.0/)
+Licence: CC BY 3.0
+Made from: Salamander Grand Piano V3+20161209, 48 kHz/24-bit (freepats.zenvoid.org/Piano/acoustic-grand-piano.html)
+
+This folder is a derivative of the library named above, made by Woodshed's
+crates/backing/tools/build-packs.sh: our own flattened SFZ programs (every opcode
+resolved, only the regions the Woodshed backing band can play) over the library's own
+samples, converted to 16-bit FLAC. The upstream licence and readme files are
+included unchanged next to this file.
