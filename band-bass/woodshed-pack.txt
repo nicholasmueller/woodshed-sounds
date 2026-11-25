@@ -1,0 +1,7 @@
+# Woodshed sound pack (Band bass: D. Smolken's double bass with Karoryfer Sneakybass articulations). Read by crates/backing/src/sfz/packs.rs.
+pack band-bass
+version 1
+program bass smolken bass.sfz
+program bass-ghost sneakybass bass-ghost.sfz
+program bass-dead sneakybass bass-dead.sfz
+program bass-release-noise sneakybass bass-release-noise.sfz

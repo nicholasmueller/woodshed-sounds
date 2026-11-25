@@ -1,0 +1,14 @@
+Band bass - a Woodshed sound pack
+===================================
+
+The band's double bass: D. Smolken's 1958 Otto Rubner bass (pizzicato, E0-G4) with Karoryfer Sneakybass ghost notes, dead notes and release noises.
+
+Credit: D. Smolken's double bass and Sneakybass by Karoryfer Samples, CC0 1.0
+Licence: CC0 1.0
+Made from: sfzinstruments/dsmolken.double-bass v1.001; sfzinstruments/karoryfer.sneakybass v1.000
+
+This folder is a derivative of the library named above, made by Woodshed's
+crates/backing/tools/build-packs.sh: our own flattened SFZ programs (every opcode
+resolved, only the regions the Woodshed backing band can play) over the library's own
+samples, converted to 16-bit FLAC. The upstream licence and readme files are
+included unchanged next to this file.
