@@ -1,0 +1,5 @@
+# Woodshed sound pack (Band drums, brushes: Karoryfer Swirly Drums with Frankensnare's 14x5 maple brush snare). Read by crates/backing/src/sfz/packs.rs.
+pack band-drums-brushes
+version 1
+program drums-brushes swirly brushes.sfz
+program brush-snare frankensnare-maple brush-snare.sfz

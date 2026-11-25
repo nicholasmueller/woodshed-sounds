@@ -1,0 +1,14 @@
+Band drums (brushes) - a Woodshed sound pack
+==============================================
+
+Brushes for ballads: Karoryfer Swirly Drums (kick, hi-hat, ride) with Frankensnare's brushed 14x5 maple snare (sweeps and taps).
+
+Credit: Swirly Drums and Frankensnare by Karoryfer Samples, CC0 1.0
+Licence: CC0 1.0
+Made from: sfzinstruments/karoryfer.swirly-drums v1.104; sfzinstruments/karoryfer.frankensnare (commit 9151c2d)
+
+This folder is a derivative of the library named above, made by Woodshed's
+crates/backing/tools/build-packs.sh: our own flattened SFZ programs (every opcode
+resolved, only the regions the Woodshed backing band can play) over the library's own
+samples, converted to 16-bit FLAC, the drum mic positions premixed with the band's mic mix. The upstream licence and readme files are
+included unchanged next to this file.
